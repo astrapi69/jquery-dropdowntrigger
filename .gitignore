@@ -1,0 +1,14 @@
+###############
+# bower files #
+###############
+/public_html/bower_components/
+
+#################
+# eclipse files #
+#################
+/.project
+
+##############
+# Logs files #
+##############
+*.log
